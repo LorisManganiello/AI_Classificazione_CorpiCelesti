@@ -1,6 +1,6 @@
 # AI_Classificazione_CorpiCelesti
 
-![Python](https://img.shields.io/badge/Python-v2020a-blue.svg)
+![Python](https://img.shields.io/badge/Python-blue.svg)
 ![AI classification](https://img.shields.io/badge/AI-classification-red.svg)
 ![Status](https://img.shields.io/badge/Status-complete-yellow.svg)
 
